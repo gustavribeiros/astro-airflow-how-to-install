@@ -1,0 +1,11 @@
+# Additional Python packages for your Airflow DAGs
+# These will be installed automatically when you add them to _PIP_ADDITIONAL_REQUIREMENTS in .env
+
+# Common packages you might need:
+# pandas>=1.5.0
+# requests>=2.28.0
+# numpy>=1.24.0
+# boto3>=1.26.0  # For AWS integrations
+# google-cloud-storage>=2.7.0  # For GCP integrations
+# psycopg2-binary>=2.9.0  # For PostgreSQL connections
+# pymongo>=4.3.0  # For MongoDB connections
